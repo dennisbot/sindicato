@@ -1,0 +1,15 @@
+.ver-pauta {
+	background: #ffc;
+	cursor: pointer;
+	padding: 8px;
+	border: 3px solid #feb;
+	margin: 8px 0;
+}
+.ver-pauta:hover {
+	background: #DFF0a8;
+	border: 3px solid #dff0d8;
+}
+input[name='fecha'] {
+    background: white;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+/* formulario remisiones -------------------------------------------------- */
+#pub_seleccionadas input{width: 100px}
+#resultados input{width: 115px}
+#pub_seleccionadas td input{text-align: right;}
+.mas_datos{background-color: rgb(240, 230, 140);}
+#pub_seleccionadas input, #pub_seleccionadas input{cursor: pointer;}
+.ver-remision {background: #ffc;float: left;
+	cursor: pointer;padding: 8px;margin-right: 10px;
+}
+.ver-remision:hover {
+	background: #DFF0D8;
+}
+input[name='fecha'] {
+    background: white;
+    cursor: pointer;
+}

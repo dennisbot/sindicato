@@ -1,0 +1,14 @@
+/* formulario remisiones -------------------------------------------------- */
+.datepicker>input {
+	background: white;
+	cursor: pointer;
+}
+.ajustar {
+	width: 100px;
+}
+.acciones {
+	width: 100%;
+}
+#to-add th, #to-add td, #details th, #details td {
+	text-align: center;
+}

@@ -1,0 +1,16 @@
+.table-striped tbody > tr:nth-child(even) > td,
+.table-striped tbody > tr:nth-child(even) > th {
+  background-color: #ffffff;
+}
+.btn-cobrar, .btn-cobrar-imprimir {
+	width: 100%;
+	height: 100%;
+	font-family: 'OpenSansRegular';
+	font-weight: bolder;
+	font-size: 1.3em;
+}
+td.eltotal {
+	background:#F4A83D !important;
+	color: white;
+	font-weight: bolder;
+}

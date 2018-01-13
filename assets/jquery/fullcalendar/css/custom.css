@@ -1,0 +1,12 @@
+/* custom dennisbot */
+#calendar .fc-content td:hover {
+	background: #DFF0D8 !important;
+	/* #ffc */
+	/* 50E700 */
+	/* #DFF0D8 */
+	/* verde success #DFF0D8 */
+	cursor: pointer;
+}
+#calendar .fc-content td {
+	position: relative;
+}

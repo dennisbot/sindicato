@@ -1,0 +1,36 @@
+.table {
+	background-color: white;
+}
+table.vendedores td {
+    max-width: 16px;
+    cursor: pointer;
+}
+table th, table td {
+    text-align: center !important;
+}
+.inplace_field {
+    width: 100%;
+    box-sizing: border-box;
+    height: 36px !important;
+    margin: 0 !important;
+    text-align: center;
+}
+.color-dia {
+	background-color: #dff0d8;
+	color: #468847;
+	display: block;
+}
+.dia-proveedor {
+	background: #ffc;
+}
+.affix {
+	top: 0;
+    background: white;
+    border-bottom: 2px solid #DDD;
+}
+.affix > .span6 {
+    padding-right: 20px;
+}
+.affix .table {
+	margin-bottom: 0;
+}
